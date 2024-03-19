@@ -1,0 +1,22 @@
+.mainbox{
+
+    border: 5px;
+    width: 600px;
+    height:350px;
+    margin: 50px auto;
+    padding-top: 120px;
+    padding-left: 25px;
+    border-radius: 30px;
+    background-color: #1DE592;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 
+
+}
+
+.btn{
+    border:none;
+    background-color: white;
+    width: 170px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 20px;
+}
